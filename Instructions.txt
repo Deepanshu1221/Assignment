@@ -1,0 +1,3 @@
+Framework used(for GET API): Flask
+Library used for scrabbing: Beautyscoup, HTML5, Requests
+Language: Python
